@@ -22,6 +22,8 @@ void loop() {
   delay(1000); // Wait for 1 second
   Serial.println("LED is on\n");
 
+  Serial.println("Hello World!\n");
+
 }
 
 // and then put the function definitions later!
