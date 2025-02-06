@@ -24,6 +24,8 @@ void loop() {
 
   Serial.println("Hello World!\n");
 
+  Serial.println("Merge Conflict"); 
+
 }
 
 // and then put the function definitions later!
